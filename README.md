@@ -73,21 +73,10 @@ pip install requests fake-useragent
 
 ## 👨‍💻 Author
 
-* **Name:** Mohammad Alamin
-* 🐙 GitHub: [@anbuinfosec](https://github.com/anbuinfosec)
-* 💬 Telegram: [@anbuinfosec\_official](https://t.me/anbuinfosec_official)
-* 📘 Facebook: [Mohammad Alamin](https://www.facebook.com/anbuinfosec)
+* **Name:** SiamTheFrog
+* 📘 Facebook: [Siam Islam Frog](https://www.facebook.com/SiamTheFrog)
 
 ---
-
-## ⭐ Support
-
-If you find this tool useful:
-
-* 🌟 Star the repo
-* 🍴 Fork it
-* 🔁 Share with ethical hackers
-
 ---
 
-**© 2025 anbuinfosec — All rights reserved.**
+**© 2025 Froggy — All rights reserved.**
